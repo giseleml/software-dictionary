@@ -51,6 +51,7 @@ class Husky extends Poodle {
 }
 
 > Liskov Substitution principle 
+
 "se S é um subtipo de T, então os objetos do tipo T, em um programa, podem ser substituídos pelos objetos de tipo S sem que seja necessário alterar as propriedades deste programa."
 Uma classe derivada deve ser substituível por sua classe base.
 
