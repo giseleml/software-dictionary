@@ -27,9 +27,11 @@ soluciona o problema do seu consumidor.
 
 # SOLID (OOP)
 > Single Responsability principle
+
 Cada classe deve ter um único trabalho.
 
 > Open Closed principle 
+
 Objetos ou entidades devem ser abertos à extensão, mas fechados para modificação.
 Dessa forma, classes devem ser extendidas para mudar funcionalidade ao invés de serem modificadas.
 Extendida no sentido de herança, exemplo:
