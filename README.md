@@ -1,10 +1,11 @@
 # software-dictionary
+Uma coleção de explicações curtas de conceitos usados em desenvolvimento de software
 A collection of short explanations of usual software development concepts
 
 # Interface 
 
-A blueprint tells you how to build something. An interface specifically avoids telling you how to build something.
-An interface defines how you can interact with a class, i.e. what methods it supports.
+Um projeto (blueprint) diz como construir algo. Uma interface especificadamente evita te dizer COMO construir algo.
+Uma interface define como você interage com uma classe, ex.: Quais métodos ela suporta.
 
 # MVC (Model-View-Controller)
 Padrão de arquitetura de software que separa as camadas de uma aplicação em diferentes níveis. 
